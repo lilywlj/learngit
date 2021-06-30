@@ -7,5 +7,6 @@
 public class a {
     public static void main(String[] args) {
         System.out.println("this is a git test!!!!");
+        System.out.println("提交到远程test分支成功啦");
     }
 }
